@@ -9,7 +9,7 @@
 1,7 -> такого числа в массиве нет (1 строчка, 7 столбец)
 */
 
-Console.Write("Введите номмер строки: ");
+Console.Write("Введите номер строки: ");
 int m = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите номер столбца: ");
 int n = Convert.ToInt32(Console.ReadLine());
